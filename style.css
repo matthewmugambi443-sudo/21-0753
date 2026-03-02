@@ -1,31 +1,27 @@
-h3 {
-  color: red;
+.p3{
+  color: purple;
   text-decoration: underline;
 }
 
-/*style.css */
-body{
-  background-color: gray;
-  }
-  h3
-  {
-     color: green;
-	 font-weigt: bold;
-  }
-  
- 
-  /* Styling for Paragraph 3 */
-.p3-style {
-    color: purple;
-    text-decoration: underline;
+
+.highlight3{
+  color: blue;
 }
 
-/* Styling for Highlight 3 */
-.h1-external {
-    color: red;
+
+.building3{
+  color: purple;
 }
 
-/* Styling for Building 3 */
-.h3-external {
-    color: teal;
+
+.externalH2{
+  color: orange;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* NEW h4 - external (Purple, Italics) */
+.externalH4{
+  color: purple;
+  font-style: italic;
 }
