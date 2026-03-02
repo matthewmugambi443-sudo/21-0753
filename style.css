@@ -1,0 +1,31 @@
+h3 {
+  color: red;
+  text-decoration: underline;
+}
+
+/*style.css */
+body{
+  background-color: gray;
+  }
+  h3
+  {
+     color: green;
+	 font-weigt: bold;
+  }
+  
+ 
+  /* Styling for Paragraph 3 */
+.p3-style {
+    color: purple;
+    text-decoration: underline;
+}
+
+/* Styling for Highlight 3 */
+.h1-external {
+    color: red;
+}
+
+/* Styling for Building 3 */
+.h3-external {
+    color: teal;
+}
